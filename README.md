@@ -17,7 +17,7 @@ Bamazon is a storefront which utilizes MySQL and node.js.
 #
 ![img](demo/bamazon5.jpg)
 #
-* I something is bought, the app updates the database to reflect the remaining inventory.
+* If something is bought, the app updates the database to reflect the remaining inventory.
 # Demo GIF
 
 ![Demo GIF](demo/bamazon.gif)1
